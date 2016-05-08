@@ -1,4 +1,4 @@
-package com.ladyswings;
+package com.ladyswings.mobile;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

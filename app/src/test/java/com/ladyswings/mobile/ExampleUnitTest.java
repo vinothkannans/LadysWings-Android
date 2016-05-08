@@ -1,4 +1,4 @@
-package com.ladyswings;
+package com.ladyswings.mobile;
 
 import org.junit.Test;
 
